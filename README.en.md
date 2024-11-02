@@ -5,7 +5,7 @@ Here I will post some skins I made for ao3 (if I ever make more of them ha-ha)
 
 So 
 
-## How do you even create your own skin on ao3? <sup> Just in case if you do not know </sup>
+## How do you even create your own skin on ao3? <sup> Just in case you do not know </sup>
 
 1. Go to your Dashboard
 ![Go to your Dashboard](/images/go-to-dashboard.png)
