@@ -19,11 +19,11 @@
 
 ## 1. Main
 
-1. Воспользуемся Wizard (кнопка "Use Wizard"), чтобы настроить цвета (Header Color и Accent Color). Жмём Submit (Update, если уже создали скин до этого).
+1. Воспользуемся Wizard (кнопка "Use Wizard"), чтобы настроить цвета (Header Color, Accent Color и Background Color). Жмём Submit (Update, если уже создали скин до этого).
 
-| Header Color | Accent Color |
-| :----------: | :----------: |
-| #442302      | #ead6b5 |
+| Header Color | Accent Color | Background Color |
+| :----------: | :----------: | :--: |
+| #442302      | #ead6b5 | #f9f5ea |
 
 2. Жмём Edit, чтобы закинуть наш кастомный css. Копируем css из файла [ficbook skin - main](/ficbook%20skin/ficbook%20skin%20-%20main.css), вставляем в поле для css и жмём Update.
 
