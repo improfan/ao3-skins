@@ -29,7 +29,10 @@
 
 ## 2. Icons
 
-Копируем css из файла [ficbook skin - icons](/ficbook%20skin/ficbook%20skin%20-%20icons.css), вставляем в поле для css и жмём Submit (Update, если уже создали скин до этого).
+1. Копируем css из файла [ficbook skin - icons](/ficbook%20skin/ficbook%20skin%20-%20icons.css), вставляем в поле для css и 
+2. Раскрывавем секцию Advanced и в секции Parent Skins жмём Add Parent Skin и начинаем вводить название своего скина [Main](#1-main), выбираем его.
+3. Жмём Submit (Update, если уже создали скин до этого).
+   ![mobile](/images/advanced-section.png)
 
 ## 3. Mobile
 
