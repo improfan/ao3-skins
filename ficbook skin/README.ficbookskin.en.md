@@ -29,7 +29,9 @@ So 3 (tree) skins need to be made:
 
 ## 2. Icons
 
-Copy css from file [ficbook skin - icons](/ficbook%20skin/ficbook%20skin%20-%20icons.css), paste in css field and click Submit (or Update, if you've already made the skin before).
+1. Copy css from file [ficbook skin - icons](/ficbook%20skin/ficbook%20skin%20-%20icons.css), paste in css field and click Submit (or Update, if you've already made the skin before).
+2. Open Advanced section and in Parent Skins section click Add Parent Skin and begin to type the title of your [Main](#1-main) skin, choose it from the list.
+3. Click Submit (or Update, if you've already made the skin before).
 
 ## 3. Mobile
 
