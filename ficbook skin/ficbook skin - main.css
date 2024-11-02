@@ -1,0 +1,205 @@
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+blockquote,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.bookmark .user .meta,
+.datetime,
+a.work,
+span.symbol,
+.splash .news .meta,
+select {
+  font-family: verdana,sans-serif;
+}
+
+h1,
+h2 h4,
+h5,
+h3,
+h6,
+.heading {
+  border-bottom: none;
+  font-weight: normal;
+  font-family: verdana,sans-serif;
+}
+
+.meta dt {
+  font-weight: bold;
+}
+
+li.warnings a,
+li.relationships a,
+li.characters a,
+li.freeforms a,
+dd.warning.tags ul.commas li a,
+dd.relationship.tags ul.commas li a,
+dd.character.tags ul.commas li a,
+dd.freeform.tags ul.commas li a,
+dd.fandom.tags ul.commas li a,
+dd.category.tags ul.commas li a,
+dd.rating.tags ul.commas li a {
+  background-color: #eee7d5;
+}
+
+a.tag {
+  padding-left: 4px;
+  padding-right: 4px;
+  margin: 2px 0px;
+  border-radius: 2px;
+  display: inline;
+  color: #4f2d01;
+  border-bottom: none;
+}
+
+a.tag:hover {
+  color: #a68e64;
+  background-color: #eee7d5;
+}
+
+.commas li:after {
+  content: none;
+}
+
+p.footnote,
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.action:visited,
+.actions input,
+input[type=submit],
+input[type=submit]:hover,
+input[type=file] {
+  border-radius: 2px;
+  color: #a98e60;
+  background: #fcf4e7;
+  border: 1px solid #e3cea9;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.dynamic form,
+.ui-draggable form,
+#header .primary,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form,
+.listbox .index,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+span.question,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.delete a,
+span.delete,
+#header ul.primary,
+.ui-sortable li,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  box-shadow: none;
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  border: none;
+  background: #e7e1d2;
+}
+
+form.search input[type="text"] {
+  border-radius: 0.25em;
+}
+
+.home .header h2 {
+  border-bottom: none;
+}
+
+.current {
+  border-radius: 2px;
+  background-color: #dcd1c9;
+  color: #613002;
+  border-color: #b5a09b;
+}
+
+.autocomplete div.dropdown {
+  height: 1em;
+}
+
+.autocomplete input,
+.autocomplete .dropdown ul li {
+  width: -webkit-fill-available;
+}
+
+#work_search_query {
+  width: -webkit-fill-available;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+form blockquote.userstuff {
+  box-shadow: none;
+  border: none;
+  margin: 0.643em 0 0.643em 0;
+}
+
+#main dl.subscription.index.group dd {
+  background: none;
+}
+
+body {
+  background-color: #f9f5ea;
+}

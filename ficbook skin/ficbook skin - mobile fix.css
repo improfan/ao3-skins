@@ -1,0 +1,13 @@
+#greeting img[src$="/images/skins/iconsets/default/icon_user.png"] {
+    background-position: 0 -16.5px;
+  }
+  
+  .comment img[src$="/images/skins/iconsets/default/icon_user.png"] {
+    padding: 55px 0 0 55px;
+    background-position: 0px -525px;
+  }
+  
+  #main div.user.home.profile div.primary.header.module ul,
+  #main div.user.home div ul {
+    width: 15em;
+  }
