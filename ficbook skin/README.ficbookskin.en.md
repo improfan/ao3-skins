@@ -19,11 +19,11 @@ So 3 (tree) skins need to be made:
 
 ## 1. Main
 
-1. Let's use Wizard ("Use Wizard" button) to configure colors (Header Color and Accent Color). Click Submit (or Update, if you've already made the skin before).
+1. Let's use Wizard ("Use Wizard" button) to configure colors (Header Color, Accent Color and Background Color ). Click Submit (or Update, if you've already made the skin before).
 
-| Header Color | Accent Color |
-| :----------: | :----------: |
-| #442302      | #ead6b5 |
+| Header Color | Accent Color | Background Color |
+| :----------: | :----------: | :--: |
+| #442302      | #ead6b5 | #f9f5ea |
 
 2. Cliack Edit, to paste our custom css. Copy css from file [ficbook skin - main](/ficbook%20skin/ficbook%20skin%20-%20main.css), paste in css field and click Update.
 
